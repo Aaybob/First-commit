@@ -1,0 +1,10 @@
+[
+  {
+    "_type": "Model522ResultTotals", 
+    "_description": "Model522ResultTotals 2016-01-17T00:00:00 head[1], body[41] op[0x6d]", 
+    "timestamp": "2016-01-17T00:00:00", 
+    "_body": "050c00e800000000026a026a64000000000000000000000000000000000000000000000c00e8000000", 
+    "_head": "6d", 
+    "_date": "1090"
+  }
+]
