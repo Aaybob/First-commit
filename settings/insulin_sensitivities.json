@@ -4,9 +4,23 @@
     {
       "i": 0, 
       "start": "00:00:00", 
-      "sensitivity": 50, 
+      "sensitivity": 25, 
       "offset": 0, 
       "x": 0
+    }, 
+    {
+      "i": 26, 
+      "start": "13:00:00", 
+      "sensitivity": 40, 
+      "offset": 780, 
+      "x": 1
+    }, 
+    {
+      "i": 34, 
+      "start": "17:00:00", 
+      "sensitivity": 25, 
+      "offset": 1020, 
+      "x": 2
     }
   ], 
   "first": 1
