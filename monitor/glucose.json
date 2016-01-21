@@ -1,6 +1,18 @@
 [
   {
     "trend_arrow": "FLAT", 
+    "system_time": "2016-01-21T06:19:23", 
+    "display_time": "2016-01-21T02:21:09", 
+    "glucose": 83
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-01-21T06:14:23", 
+    "display_time": "2016-01-21T02:16:09", 
+    "glucose": 85
+  }, 
+  {
+    "trend_arrow": "FLAT", 
     "system_time": "2016-01-21T06:09:23", 
     "display_time": "2016-01-21T02:11:09", 
     "glucose": 86
@@ -16,17 +28,5 @@
     "system_time": "2016-01-21T05:59:23", 
     "display_time": "2016-01-21T02:01:09", 
     "glucose": 90
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-01-21T05:54:23", 
-    "display_time": "2016-01-21T01:56:09", 
-    "glucose": 94
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-01-21T05:49:23", 
-    "display_time": "2016-01-21T01:51:09", 
-    "glucose": 97
   }
 ]
